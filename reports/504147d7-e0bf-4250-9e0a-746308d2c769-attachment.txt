@@ -1,0 +1,7 @@
+Added product: Sauce Labs Onesie at $7.99
+Added product: Sauce Labs Backpack at $29.99
+Added product: Sauce Labs Bolt T-Shirt at $15.99
+Added product: Test.allTheThings() T-Shirt (Red) at $15.99
+Selected products: [('Sauce Labs Onesie', '$7.99'), ('Sauce Labs Backpack', '$29.99'), ('Sauce Labs Bolt T-Shirt', '$15.99'), ('Test.allTheThings() T-Shirt (Red)', '$15.99')]
+Cart items: [('Sauce Labs Onesie', '$7.99'), ('Sauce Labs Backpack', '$29.99'), ('Sauce Labs Bolt T-Shirt', '$15.99'), ('Test.allTheThings() T-Shirt (Red)', '$15.99')]
+Confirmation message: Thank you for your order!
